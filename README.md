@@ -1,1 +1,6 @@
-# DS_v1
+#DS_1
+math
+numpy
+pandas
+streamlit
+matplotlib
