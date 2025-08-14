@@ -1,7 +1,4 @@
-io
-math
 numpy
 pandas
 streamlit
-matplotlib.pyplot
-PercentFormatter
+matplotlib
